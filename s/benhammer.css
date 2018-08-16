@@ -184,8 +184,3 @@ ul.comicNav a:hover, ul.comicNav a:focus {
 #comic .panel, #comic .cover, #comic .panel img { position:absolute; }
 #comic .cover { z-index:10; }
 #comic table { margin: auto; }
-
-@font-face {
-  font-family: 'xkcd-Regular';
-  src: url('//xkcd.com/fonts/xkcd-Regular.eot?') format('eot'), url('//xkcd.com/fonts/xkcd-Regular.otf') format('opentype');
-}
